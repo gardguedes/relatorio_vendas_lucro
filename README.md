@@ -108,5 +108,3 @@ Arquivo do projeto: **[Sales Report 06-12-2025.pbix](https://github.com/gardgued
 
 ## 🧾 Conclusão
 Este relatório combina modelagem de dados e boas práticas de design para entregar uma ferramenta analítica robusta e amigável. A inclusão de filtros, alternadores de visual e agrupamentos permite que diferentes audiências naveguem e encontrem respostas rapidamente — desde um executivo que precisa de um resumo até um analista que precisa de detalhes por mês e produto.
-
-Se quiser, posso gerar um checklist de qualidade (performance, UX e modelagem) para exportar com o repositório ou criar um arquivo com as principais medidas DAX utilizadas.
